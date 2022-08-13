@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9881dc3c.css",
+    "main.js": "./static/js/main.b1db7cd3.js",
+    "static/media/bg.jpg": "./static/media/bg.bcbc6c83d9b24646d097.jpg",
+    "static/media/getitdone.png": "./static/media/getitdone.b35deefff1cf45f9b837.png",
+    "static/media/TOMATO.webp": "./static/media/TOMATO.9bec46b037fc6b7328bd.webp",
+    "index.html": "./index.html",
+    "main.9881dc3c.css.map": "./static/css/main.9881dc3c.css.map",
+    "main.b1db7cd3.js.map": "./static/js/main.b1db7cd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9881dc3c.css",
+    "static/js/main.b1db7cd3.js"
+  ]
+}
